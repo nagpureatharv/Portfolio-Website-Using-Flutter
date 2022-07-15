@@ -1,16 +1,31 @@
-# portfolio
 
-A new Flutter project.
+## Portfolio Website Using Flutter
 
-## Getting Started
+Making The Portfolio Website using flutter other than Html, Css, Javascript.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Technology used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In this website we use the flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter - Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.Flutter give us the ability to bulid the website with dart language other than conventional way.
+## Live Demo
+
+The use of the website shown in the following link.
+
+https://nagpureatharv.github.io/#/
+
+
+## Features
+
+- Responsive Website view in all size of device.
+- Link of project github account.
+- Link of Resume.
+- Link of require social media account.
+
+
+
+## Authors
+
+- [@nagpureatharv](https://github.com/nagpureatharv)
+
