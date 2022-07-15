@@ -120,7 +120,7 @@ class Projects extends StatelessWidget {
                             : const EdgeInsets.all(30.0),
                         child: Link(
                           target: LinkTarget.blank,
-                          uri: Uri.parse("https://github.com/nagpureatharv"),
+                          uri: Uri.parse("https://github.com/nagpureatharv/Portfolio-Website-Using-Flutter"),
                           builder: (context, followlink) => InkWell(
                             onTap: followlink,
                             child: Image.network(
